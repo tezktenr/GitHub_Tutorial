@@ -6,5 +6,5 @@ second commit
 12345678
 hfghf
 abcdef
-commit and already
-ojihujbnm,
+commit and already pushed
+commmit and already pushed the second times
